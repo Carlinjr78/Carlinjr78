@@ -1,9 +1,15 @@
+
+
 <h1 align="center">Fala, eu sou o Carlin! 😁</h1>
 
 <p align="center">
 🎨 Maker | 👨‍💻 Dev Full Stack em formação | 💡 Criador de Projetos Úteis e Criativos
 </p>
-
+<p align="right">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/🌐 English%20Version-blue?style=for-the-badge" alt="English Version">
+  </a>
+</p>
 ---
 
 ## 🚀 Sobre mim
