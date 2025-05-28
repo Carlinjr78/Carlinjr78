@@ -1,4 +1,4 @@
-<h1 align="center">Fala, eu sou o Carlos! 👋</h1>
+<h1 align="center">Fala, eu sou o Carlin! 😁</h1>
 
 <p align="center">
 🎨 Maker | 👨‍💻 Dev Full Stack em formação | 💡 Criador de Projetos Úteis e Criativos
@@ -8,11 +8,12 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia desde pequeno e hoje aplico esse amor em projetos reais. 
-Tenho experiência com eletrônica, automação, desenvolvimento web e criação de conteúdo. 
+Sou apaixonado por tecnologia desde pequeno e hoje aplico esse amor em projetos reais.  
+Tenho experiência com eletrônica, automação, desenvolvimento web e criação de conteúdo.  
 Crio sistemas úteis, interfaces práticas e soluções que fazem a diferença — sempre buscando conectar pessoas com tecnologia de forma acessível e criativa.
 
-Atualmente, estudo Ciência da Computação e lidero projetos como action figures customizadas, automações com Arduino/ESP, bots para WhatsApp e muito mais.
+Sou formado como Técnico em Automação Industrial e atualmente curso Ciência da Computação.  
+Lidero projetos como freelancer de desenvolvimento, automações, bots para WhatsApp e muito mais.
 
 ---
 
@@ -21,10 +22,10 @@ Atualmente, estudo Ciência da Computação e lidero projetos como action figure
 - 👨‍💻 Linguagens: `JavaScript`, `TypeScript`, `C++`, `Java`
 - ⚙️ Back-end: `Node.js`, `Express`, `Spring Boot`
 - 🌐 Front-end: `React`, `TailwindCSS`, `HTML/CSS`, `Figma`
-- 📲 Automação: `Arduino`, `ESP8266`, `RFID`, `Servo`
+- 📲 Automação: `Arduino`,`Raspberry`, `ESP8266`, `RFID`
 - 📦 Banco de Dados: `Supabase`, `Firebase`, `MongoDB`, `MySQL`
 - 📊 BI e Dashboards: `Power BI`, `Google Data Studio`
-- 🛠️ Outros: `Fusion 360`, `Git`, `Photoshop`, `Illustrator`
+- 🛠️ Outros: `Fusion 360`, `Git`, `Photoshop`, `Illustrator`, `Premiere`, `Ultimaker Cura`
 
 ---
 
@@ -33,8 +34,9 @@ Atualmente, estudo Ciência da Computação e lidero projetos como action figure
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
 | [FURIA MATCH](https://github.com/carlinjr78/furia-match) | Sistema que conecta fãs com jogadores da FURIA usando lógica de matchmaking por tags. | ✅ Finalizado |
-| Dispenser Automático com RFID | Controle de alimentação por tag + porções + registros em planilha. | 🚧 Em desenvolvimento |
-| Bot WhatsApp Fans FURIA | Chat inteligente que responde e coleta dados de fãs usando WhatsApp Web.js | 🚀 Protótipo inicial |
+| Painel de Controle de Vendas com Dashboards | Sistema com automação de relatórios e visualização de dados para e-commerce e marketplaces. | 🚧 Em desenvolvimento |
+| Sistema de Cadastro Médico (MedConnect) | Plataforma web com login, cadastro e área de gerenciamento para médicos e pacientes. | 🧪 Protótipo funcional |
+
 
 ---
 
@@ -43,22 +45,27 @@ Atualmente, estudo Ciência da Computação e lidero projetos como action figure
 - `Node.js` para automações com WhatsApp
 - `Fusion 360` para modelagem de peças impressas em 3D
 - `Spring Boot` para integração back-end
-- `Inteligência Artificial aplicada a projetos sociais`
+- `Inteligência Artificial` aplicada a projetos sociais
 
 ---
 
 ## 📫 Contato
 
-- Instagram: [@carlinjr78](https://instagram.com/carlinjr78)
-- YouTube: [Canal do Carlos](https://youtube.com/@carlinjr78)
 - LinkedIn: [Carlos Alberto](https://linkedin.com/in/carlosjr78)
+- Instagram Tech: [Tecno Brain](https://www.instagram.com/tecnobrain__/)
+- Instagram Gamer: [@carlinjr78](https://www.instagram.com/carlinjr78/)
+- YouTube Tech: [Tecno Brain](https://www.youtube.com/@tecno_brain)
+- YouTube Gamer: [Canal do Carlos](https://youtube.com/@carlinjr78)
 - Portfólio: [em breve 💻]
 
 ---
 
-## 🐾 Curiosidade
+## 🎯 Curiosidades
 
-A FURIA me inspirou em um dos momentos mais difíceis da vida. Desde então, minha missão é criar projetos que **transformam vidas com tecnologia**, principalmente de quem mais precisa.
+- 🎮 Sou gamer desde que nasci — jogos sempre foram minha forma de aprender inglês e desenvolver raciocínio lógico.
+- 🎨 Crio action figures pintadas à mão — unir arte, tecnologia e cultura geek é uma paixão que virou hobby.
+- 🌱 Acredito que a tecnologia pode mudar vidas — desde que acessível — por isso sonho em criar uma ONG de educação tecnológica.
+
 
 ---
 
