@@ -1,6 +1,3 @@
-<p align="center">
-🎨 Maker | 👨‍💻 Dev Full Stack em formação | 💡 Criador de Projetos Úteis e Criativos
-</p>
 <p align="right">
   <a href="README.en.md">
     <img src="https://img.shields.io/badge/🌐 English%20Version-blue?style=for-the-badge" alt="English Version">
@@ -8,6 +5,10 @@
 </p>
 ---
 <h1 align="center">Fala, eu sou o Carlin! 😁</h1>
+
+<p align="center">
+🎨 Maker | 👨‍💻 Dev Full Stack em formação | 💡 Criador de Projetos Úteis e Criativos
+</p>
 
 ---
 
@@ -24,13 +25,13 @@ Lidero projetos como freelancer de desenvolvimento, automações, bots para What
 
 ## 🧰 Tecnologias e Ferramentas
 
-- 👨‍💻 Linguagens: `JavaScript`, `TypeScript`, `C++`, `Java`
-- ⚙️ Back-end: `Node.js`, `Express`, `Spring Boot`
-- 🌐 Front-end: `React`, `TailwindCSS`, `HTML/CSS`, `Figma`
-- 📲 Automação: `Arduino`,`Raspberry`, `ESP8266`, `RFID`
-- 📦 Banco de Dados: `Supabase`, `Firebase`, `MongoDB`, `MySQL`
-- 📊 BI e Dashboards: `Power BI`, `Google Data Studio`
-- 🛠️ Outros: `Fusion 360`, `Git`, `Photoshop`, `Illustrator`, `Premiere`, `Ultimaker Cura`
+- 👨‍💻 Linguagens: JavaScript, TypeScript, C++, Java
+- ⚙️ Back-end: Node.js, Express, Spring Boot
+- 🌐 Front-end: React, TailwindCSS, HTML/CSS, Figma
+- 📲 Automação: Arduino,Raspberry, ESP8266, RFID
+- 📦 Banco de Dados: Supabase, Firebase, MongoDB, MySQL
+- 📊 BI e Dashboards: Power BI, Google Data Studio
+- 🛠️ Outros: Fusion 360, Git, Photoshop, Illustrator, Premiere, Ultimaker Cura
 
 ---
 
@@ -47,10 +48,10 @@ Lidero projetos como freelancer de desenvolvimento, automações, bots para What
 
 ## 🧠 Estudando Agora
 
-- `Node.js` para automações com WhatsApp
-- `Fusion 360` para modelagem de peças impressas em 3D
-- `Spring Boot` para integração back-end
-- `Inteligência Artificial` aplicada a projetos sociais
+- Node.js para automações com WhatsApp
+- Fusion 360 para modelagem de peças impressas em 3D
+- Spring Boot para integração back-end
+- Inteligência Artificial aplicada a projetos sociais
 
 ---
 
@@ -68,10 +69,10 @@ Lidero projetos como freelancer de desenvolvimento, automações, bots para What
 ## 🎯 Curiosidades
 
 - 🎮 Sou gamer desde que nasci — jogos sempre foram minha forma de aprender inglês e desenvolver raciocínio lógico.
-- 🎨 Crio action figures pintadas à mão — unir arte, tecnologia e cultura geek é uma paixão que virou hobby.
+- 🎨 Crio action figures pintadas à mão — unir arte, tecnologia e cultura geek é uma paixão que virou hobbie.
 - 🌱 Acredito que a tecnologia pode mudar vidas — desde que acessível — por isso sonho em criar uma ONG de educação tecnológica.
 
 
 ---
 
-<p align="center">💬 “O esforço vence o talento, quando o talento não se esforça.”</p>
+<p align="center">💬 “O esforço vence o talento, quando o talento não se esforça.”</p> 
